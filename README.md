@@ -1,1 +1,1 @@
-# brain_computer_interface_analysis_1
+# brain_computer_interface_analysis-hand-movements
